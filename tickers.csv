@@ -1,0 +1,39 @@
+ticker,company,exchange,sector
+DTEGY,Deutsche Telekom AG,US,Telecom
+VOD.L,Vodafone Group Plc,LSE,Telecom
+ORAN.PA,Orange S.A.,PAR,Telecom
+TEF.MC,Telefonica S.A.,MAD,Telecom
+T,AT&T Inc,US,Telecom
+VZ,Verizon Communications Inc,US,Telecom
+TMUS,T-Mobile US,US,Telecom
+LLY,Eli Lilly and Company,US,Pharma
+MRK,Merck & Co.,US,Pharma
+PFE,Pfizer Inc.,US,Pharma
+BNTX,BioNTech SE,US,Pharma
+MRNA,Moderna,US,Pharma
+AZN,AstraZeneca PLC,US,Pharma
+GILD,Gilead Sciences,US,Pharma
+AMGN,Amgen Inc.,US,Pharma
+ABBV,AbbVie Inc.,US,Pharma
+REGN,Regeneron Pharmaceuticals,US,Pharma
+BIIB,Biogen Inc.,US,Pharma
+MSFT,Microsoft,US,Technology
+AAPL,Apple,US,Technology
+GOOGL,Alphabet,US,Technology
+AMZN,Amazon,US,Consumer
+META,Meta Platforms,US,Technology
+NVDA,NVIDIA,US,Technology
+AMD,Advanced Micro Devices,US,Technology
+AVGO,Broadcom,US,Technology
+INTC,Intel,US,Technology
+ASML.AS,ASML Holding,AMS,Technology
+TSM,TSMC,US,Technology
+DE,Deere & Company,US,Industrial
+GE,GE Aerospace,US,Industrial
+ETN,Eaton,US,Industrial
+LMT,Lockheed Martin,US,Defense
+RTX,RTX Corp,US,Defense
+NOC,Northrop Grumman,US,Defense
+DHR,Danaher,US,Healthcare
+TMO,Thermo Fisher Scientific,US,Healthcare
+LEVI,Levi Strauss & Co.,US,Consumer
