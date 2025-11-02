@@ -95,6 +95,10 @@ st.metric("C", c_count)
 st.metric("Avg Upside", f"{0.0 if pd.isna(avg_upside) else round(avg_upside,1)}%")
 
 plot_df = fdf.dropna(subset=["discount_pct", "mom_3m_pct"]).copy()
+# --- Adattisztítás a Plotly diagram előtt ---
+for col in ["discount_pct", "mom_3m_pct"]:
+    plot_df[col] = pd.to_numeric(plot_df[col], errors="coerce").fillna(0.0)
+# -------------------------------------------
 if not plot_df.empty:
     fig = px.scatter(
         plot_df,
